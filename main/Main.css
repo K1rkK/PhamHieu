@@ -69,7 +69,7 @@
 	transition: 3s all ease-in-out
 }
 .box:hover .feature-image {
-	transform: scale(1.1);
+	transform: scale(1.4);
 }
 .content-box h2{
 	font-family: 'Medula One', cursive;
